@@ -1,0 +1,4 @@
+http://www.gravie.com/wp-content/themes/gravie15/build/scripts/timetravel.js
+Usage: python /home/ash/Tools/LinkFinder/linkfinder.py [Options] use -h for help
+Error: invalid input defined or SSL error: HTTP Error 403: Forbidden
+

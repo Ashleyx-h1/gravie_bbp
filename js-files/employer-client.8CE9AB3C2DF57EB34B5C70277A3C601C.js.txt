@@ -1,0 +1,6 @@
+https://employer.gravie.com/js/compiled/employer-client.8CE9AB3C2DF57EB34B5C70277A3C601C.js
+image/png
+/images/gravie-favicon.png
+https://www.googletagmanager.com/gtag/js?id=G-ZD4FR699L4
+/js/compiled/single-spa-main.DwpTfy3u.js
+

@@ -1,0 +1,8 @@
+https://blog.gravie.com/hs/scriptloader/555700.js
+Usage: python /home/ash/Tools/LinkFinder/linkfinder.py [Options] use -h for help
+Error: invalid input defined or SSL error: HTTP Error 403: Forbidden
+
+https://www.gravie.com/555700.js
+Usage: python /home/ash/Tools/LinkFinder/linkfinder.py [Options] use -h for help
+Error: invalid input defined or SSL error: HTTP Error 403: Forbidden
+

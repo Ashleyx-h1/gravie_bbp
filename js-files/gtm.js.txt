@@ -1,0 +1,84 @@
+https://blog.gravie.com/gtm.js
+Usage: python /home/ash/Tools/LinkFinder/linkfinder.py [Options] use -h for help
+Error: invalid input defined or SSL error: HTTP Error 403: Forbidden
+
+https://www.gravie.com/california-personnel-privacy-addendum%5C/%5C%5C/california-personnel-privacy-addendum%5C%5C/gtm.js
+Usage: python /home/ash/Tools/LinkFinder/linkfinder.py [Options] use -h for help
+Error: invalid input defined or SSL error: HTTP Error 403: Forbidden
+
+https://www.gravie.com/california-personnel-privacy-addendum%5C%5C/gtm.js
+Usage: python /home/ash/Tools/LinkFinder/linkfinder.py [Options] use -h for help
+Error: invalid input defined or SSL error: HTTP Error 403: Forbidden
+
+https://www.gravie.com/california-personnel-privacy-addendum%5C/gtm.js
+Usage: python /home/ash/Tools/LinkFinder/linkfinder.py [Options] use -h for help
+Error: invalid input defined or SSL error: HTTP Error 403: Forbidden
+
+https://www.gravie.com/california-personnel-privacy-addendum/gtm.js
+Usage: python /home/ash/Tools/LinkFinder/linkfinder.py [Options] use -h for help
+Error: invalid input defined or SSL error: HTTP Error 403: Forbidden
+
+https://www.gravie.com/ccpa-notice%5C/%5C%5C/ccpa-notice%5C%5C/gtm.js
+Usage: python /home/ash/Tools/LinkFinder/linkfinder.py [Options] use -h for help
+Error: invalid input defined or SSL error: HTTP Error 403: Forbidden
+
+https://www.gravie.com/ccpa-notice%5C%5C/gtm.js
+Usage: python /home/ash/Tools/LinkFinder/linkfinder.py [Options] use -h for help
+Error: invalid input defined or SSL error: HTTP Error 403: Forbidden
+
+https://www.gravie.com/ccpa-notice%5C/gtm.js
+Usage: python /home/ash/Tools/LinkFinder/linkfinder.py [Options] use -h for help
+Error: invalid input defined or SSL error: HTTP Error 403: Forbidden
+
+https://www.gravie.com/ccpa-notice/gtm.js
+Usage: python /home/ash/Tools/LinkFinder/linkfinder.py [Options] use -h for help
+Error: invalid input defined or SSL error: HTTP Error 403: Forbidden
+
+https://www.gravie.com/compliance%5C/%5C%5C/compliance%5C%5C/gtm.js
+Usage: python /home/ash/Tools/LinkFinder/linkfinder.py [Options] use -h for help
+Error: invalid input defined or SSL error: HTTP Error 403: Forbidden
+
+https://www.gravie.com/compliance%5C%5C/gtm.js
+Usage: python /home/ash/Tools/LinkFinder/linkfinder.py [Options] use -h for help
+Error: invalid input defined or SSL error: HTTP Error 403: Forbidden
+
+https://www.gravie.com/compliance%5C/gtm.js
+Usage: python /home/ash/Tools/LinkFinder/linkfinder.py [Options] use -h for help
+Error: invalid input defined or SSL error: HTTP Error 403: Forbidden
+
+https://www.gravie.com/compliance/gtm.js
+Usage: python /home/ash/Tools/LinkFinder/linkfinder.py [Options] use -h for help
+Error: invalid input defined or SSL error: HTTP Error 403: Forbidden
+
+https://www.gravie.com/gtm.js
+Usage: python /home/ash/Tools/LinkFinder/linkfinder.py [Options] use -h for help
+Error: invalid input defined or SSL error: HTTP Error 403: Forbidden
+
+https://www.gravie.com/perspectives%5C/humans-of-gravie-alan%5C/gtm.js
+Usage: python /home/ash/Tools/LinkFinder/linkfinder.py [Options] use -h for help
+Error: invalid input defined or SSL error: HTTP Error 403: Forbidden
+
+https://www.gravie.com/perspectives/humans-of-gravie-alan/gtm.js
+Usage: python /home/ash/Tools/LinkFinder/linkfinder.py [Options] use -h for help
+Error: invalid input defined or SSL error: HTTP Error 403: Forbidden
+
+https://www.gravie.com/podcast%5C/%5C%5C/podcast%5C%5C/gtm.js
+Usage: python /home/ash/Tools/LinkFinder/linkfinder.py [Options] use -h for help
+Error: invalid input defined or SSL error: HTTP Error 403: Forbidden
+
+https://www.gravie.com/podcast%5C%5C/gtm.js
+Usage: python /home/ash/Tools/LinkFinder/linkfinder.py [Options] use -h for help
+Error: invalid input defined or SSL error: HTTP Error 403: Forbidden
+
+https://www.gravie.com/podcast%5C/gtm.js
+Usage: python /home/ash/Tools/LinkFinder/linkfinder.py [Options] use -h for help
+Error: invalid input defined or SSL error: HTTP Error 403: Forbidden
+
+https://www.gravie.com/podcast/gtm.js
+Usage: python /home/ash/Tools/LinkFinder/linkfinder.py [Options] use -h for help
+Error: invalid input defined or SSL error: HTTP Error 403: Forbidden
+
+https://www.gravie.com/wp-content/themes/gravie/assets/gtm.js
+Usage: python /home/ash/Tools/LinkFinder/linkfinder.py [Options] use -h for help
+Error: invalid input defined or SSL error: HTTP Error 403: Forbidden
+

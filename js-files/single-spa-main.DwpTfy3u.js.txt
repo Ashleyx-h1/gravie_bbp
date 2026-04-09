@@ -1,0 +1,5 @@
+https://employer.gravie.com/js/compiled/single-spa-main.DwpTfy3u.js
+/cljs-manifest.json
+/ichra-employer-frontend/ichra-manifest.json
+/ichra
+

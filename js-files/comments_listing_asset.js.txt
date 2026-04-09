@@ -1,0 +1,8 @@
+https://blog.gravie.com/hs/hsstatic/AsyncSupport/static-1.36/js/comments_listing_asset.js
+Usage: python /home/ash/Tools/LinkFinder/linkfinder.py [Options] use -h for help
+Error: invalid input defined or SSL error: HTTP Error 403: Forbidden
+
+https://blog.gravie.com/hs/hsstatic/AsyncSupport/static-1.43/js/comments_listing_asset.js
+Usage: python /home/ash/Tools/LinkFinder/linkfinder.py [Options] use -h for help
+Error: invalid input defined or SSL error: HTTP Error 403: Forbidden
+

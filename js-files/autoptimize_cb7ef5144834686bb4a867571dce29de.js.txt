@@ -1,0 +1,4 @@
+https://www.gravie.com/wp-content/cache/autoptimize/js/autoptimize_cb7ef5144834686bb4a867571dce29de.js
+Usage: python /home/ash/Tools/LinkFinder/linkfinder.py [Options] use -h for help
+Error: invalid input defined or SSL error: HTTP Error 403: Forbidden
+

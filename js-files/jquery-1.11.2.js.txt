@@ -1,0 +1,4 @@
+https://blog.gravie.com/hs/hsstatic/jquery-libs/static-1.4/jquery/jquery-1.11.2.js
+Usage: python /home/ash/Tools/LinkFinder/linkfinder.py [Options] use -h for help
+Error: invalid input defined or SSL error: HTTP Error 403: Forbidden
+

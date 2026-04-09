@@ -1,0 +1,12 @@
+https://blog.gravie.com/hs/hsstatic/content_shared_assets/static-1.4077/js/public_common.js
+Usage: python /home/ash/Tools/LinkFinder/linkfinder.py [Options] use -h for help
+Error: invalid input defined or SSL error: HTTP Error 403: Forbidden
+
+https://blog.gravie.com/hs/hsstatic/content_shared_assets/static-1.4087/js/public_common.js
+Usage: python /home/ash/Tools/LinkFinder/linkfinder.py [Options] use -h for help
+Error: invalid input defined or SSL error: HTTP Error 403: Forbidden
+
+https://blog.gravie.com/hs/hsstatic/content_shared_assets/static-1.4089/js/public_common.js
+Usage: python /home/ash/Tools/LinkFinder/linkfinder.py [Options] use -h for help
+Error: invalid input defined or SSL error: HTTP Error 403: Forbidden
+

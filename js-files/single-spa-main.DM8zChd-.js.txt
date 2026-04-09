@@ -1,0 +1,7 @@
+https://member.gravie.com/js/compiled/single-spa-main.DM8zChd-.js
+/cljs-manifest.json
+/ichra-member-frontend/ichra-manifest.json
+/member-auth/member-auth-manifest.json
+/ichra
+/login
+
